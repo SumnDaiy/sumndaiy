@@ -1,8 +1,8 @@
 # 💫 About Me:
 My name is Balázs, and I am a computer science engineering student at the University of Dunajváros.<br>Currently, I'm making resources for the "ox_core" framework.
-<div>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=SumnDaiy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-</div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SumnDaiy&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumnDaiy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
